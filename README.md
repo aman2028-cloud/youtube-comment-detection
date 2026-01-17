@@ -89,8 +89,6 @@ The model was fine-tuned end-to-end, including the classification head, to adapt
 
 ---
 
-## Web Application (Streamlit)
-
 The trained model is deployed using **Streamlit**, enabling real-time toxicity analysis.
 
 ## Tech Stack
